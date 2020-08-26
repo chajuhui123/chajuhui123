@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:jjuhee0913@gmail.com)
 
 <!--
 **chajuhui123/chajuhui123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
