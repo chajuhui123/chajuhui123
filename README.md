@@ -1,4 +1,7 @@
-Juhee Cha
+#Juhee Cha
+
+<br>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchajuhui123&count_bg=%23FFD5D5&title_bg=%23FF7575&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:jjuhee0913@gmail.com)
 <br>
@@ -10,9 +13,6 @@ Juhee Cha
 - (20.08) 한양대학교 ERICA 언론정보대학 캡스톤디자인 '가짜뉴스판별서비스 오늘사실' 금상
 - (20.03 - ) 한양대학교 ERICA 정보사회미디어학과 데이터사이언스학회 ‘DAYS‘ 부학회장
 - (20.03 - ) 멋쟁이 사자처럼 at 한양대학교 ERICA 8기
-
-<br>
-
 ## Interest 👀
 - Product Management
 - Serive & Game
