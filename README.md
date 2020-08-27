@@ -16,7 +16,7 @@
 ## Interest 👀
 - Product Management
 - Serive & Game
-- relationships
+- Relationships
 
 
 
