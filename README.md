@@ -19,7 +19,7 @@
 
 ## Interest 👀
 - Product Management
-- Serive & Game
+- Service & Game
 - Relationships
 
 
