@@ -3,7 +3,7 @@
 <div align = "center">
 
 <br><br>
-<strong style = "font-size:29px;">Joyful Joy 🥳</strong> <br><br>
+<p style = "font-size:29px;"><strong>Joyful Joy 🥳</strong></p><br><br>
 Hello, I'm Juhee (Joy).<br>
 My goal is to give good influence to society.<br>
 Have a day full of JOY today.
