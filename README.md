@@ -22,6 +22,7 @@ Have a day full of JOY today.
 </div>
 
 <br><br>
+
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=83dcb7&height=200&section=footer&fontSize=90)
 
 
