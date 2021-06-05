@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=200&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=300&section=header&fontSize=90)
 
 
 <div align = "center">
 
-<br><br>
+<br>
 <strong>Joyful Joy 🥳</strong><br><br>
 Hello, I'm Juhee (Joy).<br>
 My goal is to give good influence to society.<br>
@@ -38,10 +38,9 @@ Have a day full of JOY today.
 
 </div>
 
-<br><br>
+<br>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=83dcb7&height=200&section=footer&fontSize=90)
-
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
 
 
