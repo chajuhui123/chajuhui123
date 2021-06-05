@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=ffb6c1&height=200&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=200&section=header&fontSize=90)
+
 
 <div align = "center">
 
