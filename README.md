@@ -18,7 +18,7 @@ Have a day full of JOY today.
 <!-- [![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=Naver&link=https://blog.naver.com/chajuhui123)](https://blog.naver.com/chajuhui123)
  --> 
   
-(●'ᴗ'●)ﾉ ❤︎
+﹏﹏﹏﹏﹏﹏﹏
 
 <br/><br/>
 
